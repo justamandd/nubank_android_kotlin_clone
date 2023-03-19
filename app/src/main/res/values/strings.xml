@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nubank Clone</string>
+
+    <string name="txt_user_name">Olá, Vitor</string>
+    <string name="txt_label_account_money">Conta</string>
+    <string name="txt_account_money">R$ 813,95</string>
+
+    <string name="txt_label_pix_area">Área Pix</string>
+    <string name="txt_label_my_credit_cards">Meus Cartões</string>
+</resources>

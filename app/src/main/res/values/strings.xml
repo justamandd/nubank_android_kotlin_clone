@@ -7,4 +7,9 @@
 
     <string name="txt_label_pix_area">Área Pix</string>
     <string name="txt_label_my_credit_cards">Meus Cartões</string>
+    <string name="txt_label_credit">Cartão de Crédito</string>
+    <string name="txt_label_card_bill">Fatura atual</string>
+    <string name="txt_current_bil">R$ 597,21</string>
+    <string name="txt_available_credit_limit">Limite disponível de R$ 3.166,25</string>
+    <string name="txt_label_installments">Parcelar Compras</string>
 </resources>
